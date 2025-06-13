@@ -130,7 +130,6 @@ First Send /clone command then follow below steps.
 
     LOG_TEXT = """<b>#NewUser
 
-Bot - {}
 ID - <code>{}</code>
 
 Nᴀᴍᴇ - {}</b>
@@ -138,7 +137,6 @@ Nᴀᴍᴇ - {}</b>
     RESTART_TXT = """
 <b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
 
-🤖 Bot : {}
 📅 Dᴀᴛᴇ : <code>{}</code>
 ⏰ Tɪᴍᴇ : <code>{}</code>
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
