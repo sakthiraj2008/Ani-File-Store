@@ -23,7 +23,7 @@ API_HASH = environ.get("API_HASH", "c78c50d54baf2173e8b3f75c359c0c72")
 BOT_TOKEN = environ.get("BOT_TOKEN", "7682127400:AAFCJ5PBAtCqkh8Icc9ibK1y5dPcYGgh-GY")
 
 PICS = (environ.get('PICS', 'https://envs.sh/rbx.jpg')).split() # Bot Start Picture
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '1430742022').split()]
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '1430742022 7280715412').split()]
 BOT_USERNAME = environ.get("BOT_USERNAME", "Ani_Tubez_File_Sharing_Bot") # without @
 PORT = environ.get("PORT", "8080")
 
